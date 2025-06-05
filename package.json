@@ -1,0 +1,22 @@
+{
+  "name": "gno-rplace-front",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicolasMelet/gno-rplace-front.git"
+  },
+  "author": "NicolasMélet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NicolasMelet/gno-rplace-front/issues"
+  },
+  "homepage": "https://github.com/NicolasMelet/gno-rplace-front#readme",
+  "devDependencies": {
+    "vite": "^6.3.5"
+  }
+}
